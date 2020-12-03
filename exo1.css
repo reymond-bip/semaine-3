@@ -1,0 +1,24 @@
+section{
+color:red;
+}
+
+.bleu{
+color:blue;
+}
+.red{
+color: green;
+}
+
+div{ 
+width: 200px;
+height: 200px;
+}
+
+.jaune{ 
+background-color: indianred;
+
+}
+
+li{
+display: inline-block
+}
